@@ -56,4 +56,5 @@ def encrypt():
     
 
 app.run()
-.gitignore()
+
+
